@@ -3,4 +3,5 @@
 "description": "Let's all be earth-friendly staking! Please delegate to improve the value of Cardano and decentralize it.　　Cardanoの価値向上と分散化のために委任をお願いします。",
 "ticker": "CAMP",
 "homepage": "https://twitter.com/tamasan_money"
+"extended": "https://raw.githubusercontent.com/hirano-vm4/Cardano_Pool_campfire/main/extended-metadata.json"
 }
