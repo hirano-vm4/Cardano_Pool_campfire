@@ -1,0 +1,8 @@
+{
+"name”:”TAMA”,
+"ticker”:”CAMP”,
+"discordId":"606793574410878977",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/hirano-vm4/Cardano_Pool_campfire/main/poolMetaData.json",
+"validation":""
+}
